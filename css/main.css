@@ -24,7 +24,7 @@
   content: "\00bb";
   position: absolute;
   opacity: 0;
-  top: 0;
+  top: 0.5em;
   right: -1em;
   transition: 0.5s;
 }
